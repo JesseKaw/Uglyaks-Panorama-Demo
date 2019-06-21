@@ -1,4 +1,4 @@
-% © Jesse@Uglyaks. Do not use this for any purposes without permission.
+% By Jesse from Uglyaks.com
 % Design goal:  Similar to my previous coursework, I wanted to create an
 %               entirely generic solution for stitching images together and
 %               creating a panorama effect. Taking in a configuration file,
