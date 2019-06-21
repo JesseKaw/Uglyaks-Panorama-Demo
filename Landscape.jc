@@ -1,0 +1,9 @@
+landscape 3000 3000 99.9999 2000 3.2 30
+
+% Image folder
+% Reference size X 
+% Reference size Y
+% Similarity
+% Number of attempts
+% Length
+% Minimum number of matching points

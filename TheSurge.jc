@@ -1,0 +1,9 @@
+thesurge 4000 4000 99.9999 2000 3.2 50
+
+% Image folder
+% Reference size X 
+% Reference size Y
+% Similarity
+% Number of attempts
+% Length
+% Minimum number of matching points

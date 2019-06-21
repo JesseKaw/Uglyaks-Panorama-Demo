@@ -1,0 +1,10 @@
+images 3000 3000 99.9999 3000 3.2 125
+
+% Image folder
+% Reference size X 
+% Reference size Y
+% Required estimation similarity
+% Max number of estimation attempts
+% Estimation max length
+% Minimum number of matching points
+
